@@ -2,7 +2,7 @@
 
 Webデザインのポートフォリオとして自主制作した、架空のパーソナルピラティススタジオの1ページ完結型LPです。HTML / CSS / Vanilla JavaScriptで実装し、375pxを基準にしたモバイルファーストで設計しています。
 
-公開URL：公開後に追記
+公開サイト：[SEN PERSONAL PILATES](https://coconattsu0723.github.io/sen-personal-pilates-lp/)
 
 ## Brand Concept
 
