@@ -8,6 +8,7 @@
   --color-accent-dark: #5b6b5f;
   --color-line: #daddd7;
   --font-ja: "Noto Sans JP", "Hiragino Sans", "Yu Gothic", "YuGothic", sans-serif;
+  --font-heading: "Noto Serif JP", "Hiragino Mincho ProN", "Yu Mincho", "YuMincho", "MS PMincho", serif;
   --font-en: "Cormorant Garamond", "Times New Roman", serif;
   --header-height: 72px;
 }
@@ -143,6 +144,11 @@ h2,
 h3 {
   font-weight: 500;
   line-height: 1.5;
+}
+
+h1,
+h2 {
+  font-family: var(--font-heading);
 }
 
 h1 {
